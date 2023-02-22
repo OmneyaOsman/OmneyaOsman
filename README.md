@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @OmneyaOsman
-- 👀 I’m interested in Android , Kotlin
 
 
 <!---
